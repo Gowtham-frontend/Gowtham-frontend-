@@ -3,7 +3,7 @@
 
 Tamil Nadu, India  
 Email: dgowtham429@gmail.com  
-GitHub: [[Your GitHub Profile]](https://github.com/Gowtham-frontend)
+GitHub: (https://github.com/Gowtham-frontend)
 My Freelance Website : https://tamizhwebhub.com/
 Portfolio: [Your Portfolio]
 
